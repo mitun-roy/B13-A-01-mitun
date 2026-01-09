@@ -120,7 +120,7 @@ nav ul li a:hover{
   max-width: 1100px;
   margin: 0 auto;
   display: flex;
-  gap: 10px;
+  gap: 8px;
   flex-wrap: wrap;
   text-align: center;
       margin-top: 44px;
@@ -197,6 +197,7 @@ margin-bottom: 120px;
   background-color:#001931 ;
   color: aliceblue;
   text-align: center;
+justify-items: center;
 
    
 }
@@ -206,8 +207,9 @@ margin-bottom: 120px;
     justify-content: space-between;
     align-items: center;
     padding-top: 120px;
-    margin-right: 181px;
+    margin-right: 120px;
     margin-left: 99px;
+    width: 60%;
    
 }
 .social-linik img{
@@ -222,5 +224,5 @@ margin-bottom: 120px;
     width: 883px;
     margin-top: 44px;
     align-content: center;
-    margin-left: 93px;
+    
 }
